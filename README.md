@@ -1,2 +1,2 @@
 # space
-my space
+ideas and thoughts
